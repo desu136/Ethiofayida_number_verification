@@ -5,6 +5,8 @@
     <title>Fayida Number Verification System</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <style>
+       
+
         .landing {
             text-align: center;
             padding: 60px 20px;

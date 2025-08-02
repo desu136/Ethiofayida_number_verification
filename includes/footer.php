@@ -1,6 +1,7 @@
-</main>
+    </main>
+</div> <!-- closes layout -->
 <footer>
-    <p>&copy; 2025 Fayida Law Enforcement System</p>
+    <p>&copy; <?= date('Y') ?> Fayida Verification System</p>
 </footer>
 </body>
 </html>
